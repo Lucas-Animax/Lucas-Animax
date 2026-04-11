@@ -11,7 +11,6 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git)
 ![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge\&logo=visual-studio)
 
----
 
 ## 📊 GitHub Stats
 
@@ -22,8 +21,6 @@
 ## 🔥 Most Used Languages
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lucas-Animax\&layout=compact\&theme=dark)
-
----
 
 ## 📈 Contribution Graph
 
