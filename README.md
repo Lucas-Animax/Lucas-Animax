@@ -14,13 +14,12 @@
 
 ## 📊 GitHub Stats
 
-![Lucas GitHub stats](https://github-readme-stats.vercel.app/api?username=Lucas-Animax\&show_icons=true\&theme=dark)
-
----
+![Stats](https://github-readme-stats.vercel.app/api?username=Lucas-Animax\&show_icons=true\&theme=tokyonight\&hide_border=true)
 
 ## 🔥 Most Used Languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lucas-Animax\&layout=compact\&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lucas-Animax\&layout=compact\&theme=tokyonight\&hide_border=true)
+
 
 ## 📈 Contribution Graph
 
